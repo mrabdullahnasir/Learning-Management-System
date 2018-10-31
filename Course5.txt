@@ -1,0 +1,17 @@
+Assembly_Language CS_225 CS_Department 40
+19100185 freshman Abdullah Imran 19100185@lums.edu.pk abc123
+19110107 freshman Abdullah Rashid 19110107@lums.edu.pk def123
+19100215 freshman Aisha Ali 19100215@lums.edu.pk abc456
+19100255 freshman Aiza Hasib 19100255@lums.edu.pk def456
+19100063 freshman Ali Zohaib 19100063@lums.edu.pk abc789
+19100036 freshman Alina Sarwar 19100036@lums.edu.pk def789
+19100047 freshman Amber Aftab 19100047@lums.edu.pk xyz123
+17020284 freshman Amir Akhter 17020284@lums.edu.pk xyz456
+19100176 freshman Ammar Ahmad 19100176@lums.edu.pk xyz789
+19100200 freshman Anza Qadir 19100200@lums.edu.pk abc123
+19100177 freshman Aqsa Khalid 19100177@lums.edu.pk abc456
+19100124 freshman Asfandyar Aziz 19100124@lums.edu.pk abc789
+19100258 freshman Asif Qazi 19100258@lums.edu.pk def123
+19100172 freshman Danish Farid 19100172@lums.edu.pk def456
+19110326 freshman Danyal Sami 19110326@lums.edu.pk def789
+Professor Phd Junaid Haroon junaid@lums.edu.pk cs225Pass

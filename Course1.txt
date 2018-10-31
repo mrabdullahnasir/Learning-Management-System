@@ -1,0 +1,8 @@
+Introduction_to_Programming CS_200 CS_Department 20
+19100200 freshman Anza Qadir 19100200@lums.edu.pk abc123
+19100177 freshman Aqsa Khalid 19100177@lums.edu.pk abc456
+19100124 freshman Asfandyar Aziz 19100124@lums.edu.pk abc789
+19100258 freshman Asif Qazi 19100258@lums.edu.pk def123
+19100172 freshman Danish Farid 19100172@lums.edu.pk def456
+19110326 freshman Danyal Sami 19110326@lums.edu.pk def789
+Professor Phd Naveed Arshad naveed@lums.edu.pk cs200Pass

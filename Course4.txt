@@ -1,0 +1,12 @@
+Discrete_Mathematics CS_210 CS_Department 25
+19100185 freshman Abdullah Imran 19100185@lums.edu.pk abc123
+19110107 freshman Abdullah Rashid 19110107@lums.edu.pk def123
+19100215 freshman Aisha Ali 19100215@lums.edu.pk abc456
+19100255 freshman Aiza Hasib 19100255@lums.edu.pk def456
+19100063 freshman Ali Zohaib 19100063@lums.edu.pk abc789
+19100036 freshman Alina Sarwar 19100036@lums.edu.pk def789
+19100047 freshman Amber Aftab 19100047@lums.edu.pk xyz123
+17020284 freshman Amir Akhter 17020284@lums.edu.pk xyz456
+19100176 freshman Ammar Ahmad 19100176@lums.edu.pk xyz789
+19100200 freshman Anza Qadir 19100200@lums.edu.pk abc123
+Professor Phd Imdad Ullah imdad@lums.edu.pk mt200Pass

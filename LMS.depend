@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1481304199 source:d:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"User.h"
+	"Student.h"
+	"Instructor.h"
+	"Course.h"
+
+1481295003 source:d:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\student.cpp
+	"Student.h"
+	<iostream>
+	<fstream>
+	<vector>
+	"User.h"
+	"Course.h"
+
+1481288457 d:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\student.h
+	<iostream>
+	<vector>
+	"User.h"
+
+1481288204 d:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\user.h
+	<iostream>
+	<vector>
+
+1481288210 source:d:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\user.cpp
+	"User.h"
+	<iostream>
+	<fstream>
+	"Course.h"
+
+1481295092 source:d:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\instructor.cpp
+	"Instructor.h"
+	<iostream>
+	<fstream>
+	"User.h"
+	"Course.h"
+
+1481292092 d:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\instructor.h
+	"User.h"
+	<iostream>
+
+1481172870 source:f:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\instructor.cpp
+	"Instructor.h"
+	"User.h"
+	<iostream>
+	<fstream>
+
+1481172836 f:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\instructor.h
+	"User.h"
+	<iostream>
+
+1481256662 f:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\user.h
+	<iostream>
+	<vector>
+
+1481254074 source:f:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"User.h"
+	"Student.h"
+	"Instructor.h"
+	"Course.h"
+
+1481253318 source:f:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\student.cpp
+	"Student.h"
+	"User.h"
+	<iostream>
+	<fstream>
+	<vector>
+
+1481256564 f:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\student.h
+	"User.h"
+	<iostream>
+	<vector>
+
+1481216968 source:f:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\user.cpp
+	"User.h"
+	<iostream>
+	<fstream>
+
+1481254660 source:f:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\course.cpp
+	"Course.h"
+	<iostream>
+	<fstream>
+
+1481254416 f:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\course.h
+	<iostream>
+	<vector>
+	"Student.h"
+	"Instructor.h"
+
+1481292840 source:d:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\course.cpp
+	"Course.h"
+	<iostream>
+	<fstream>
+
+1481292850 d:\studies\university\3rd semester\cs 200\assignments\assignment 5\lms\course.h
+	<iostream>
+	<vector>
+	"Instructor.h"
+	"Student.h"
+
