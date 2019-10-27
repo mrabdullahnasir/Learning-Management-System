@@ -52,7 +52,7 @@ void Course::readFile(char fName[12],int c,User** ptr)
 }
 void Course::displayRoster()
 {
-   }
+}
 vector<string> Course::getResources()
 {
     return resources;
